@@ -7,7 +7,6 @@ Mumbai, India
 ## About Me
 
 I am a third-year B.Tech student in Artificial Intelligence and Data Science with strong interest in Full Stack Development and Data Analytics. I focus on building scalable web applications and working with real-world data to derive meaningful insights.
-
 I enjoy solving practical problems, leading teams, and continuously improving my technical skills.
 
 ## Technical Skills
