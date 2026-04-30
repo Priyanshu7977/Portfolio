@@ -1,7 +1,7 @@
 # Priyanshu Singh
 
 Full Stack Developer | Data Analyst  
-B.Tech AI & Data Science | CGPA: 8.32  
+B.Tech AI & Data Science | CGPA: 8.52  
 Mumbai, India  
 
 ## About Me
@@ -46,8 +46,11 @@ Developed basic game development projects using Arduino.
 Total Digital Internship – Total Digital Solutions (1 Month)
 
 Worked on web development projects using modern frontend technologies.
+
 Learnt about git tools.
+
 Worked with Python for basic data handling and backend logic.
+
 Gained hands-on experience in real-world project structure and deployment workflows.
 
 ## Leadership
@@ -61,9 +64,21 @@ Food Delivery App
 Full-stack MERN application with authentication, cart system, cart management, and order flow.  
 https://github.com/Priyanshu7977/Priyanshu7977-food-delivery-app  
 
-Employee Management System  
-React + TypeScript dashboard with CRUD operations and structured component architecture.  
-https://github.com/Priyanshu7977/employee-management-system  
+Electra
+
+Frontend web application with modern UI design and responsive layout.
+
+Built using React and Vite, focusing on clean component structure and user experience.
+
+https://github.com/Priyanshu7977/Electra
+
+Calorie Tracker App
+
+React + TypeScript application to track daily food intake, analyze nutrition, and manage health goals.
+
+Features meal logging, nutrition dashboard, and interactive UI for better user experience.
+
+https://github.com/Priyanshu7977/calorie-tracker
 
 ## Contact
 
