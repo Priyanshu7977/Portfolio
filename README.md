@@ -44,6 +44,7 @@ Gained exposure to IoT concepts.
 Developed basic game development projects using Arduino.
 
 Total Digital Internship – Total Digital Solutions (1 Month)
+
 Worked on web development projects using modern frontend technologies.
 Learnt about git tools.
 Worked with Python for basic data handling and backend logic.
